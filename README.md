@@ -25,6 +25,8 @@ A demonstration of real-time voice interactions using Mastra's voice capabilitie
    npm install
    ```
 
+4. Create an empty folder called `output`.
+
 ## Usage
 
 Start the application:
